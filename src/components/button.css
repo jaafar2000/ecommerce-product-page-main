@@ -1,0 +1,31 @@
+.addBtn {
+  background-color: var(--Orange);
+  height: fit-content;
+  border-radius: 0.5rem;
+  margin-left: 1rem;
+  width: fit-content;
+}
+
+.addBtn button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  display: flex;
+  align-items: center;
+}
+.addBtn button i {
+  margin-right: 1rem;
+  font-size: 1.2rem;
+}
+.addBtn button {
+  color: white;
+  font-weight: 700;
+  border-radius: 0.5rem;
+  padding: 1rem 3rem;
+  transition: all 0.3s ease-in-out;
+}
+.addBtn button:hover {
+  box-shadow: 0 0 2px 1px orange;
+  cursor: pointer;
+  background-color: rgba(255, 166, 0, 0.74);
+}
