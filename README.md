@@ -6,7 +6,7 @@ Thanks for checking out this Application.
 ## Overview
 
 ### Links
-- Live Site URL: [Live Site](https://wondrous-cranachan-3aaa1e.netlify.app/)
+- Live Site URL: [Live Site](https://ecommercproductpage.netlify.app/)
 
 ## My process
 
